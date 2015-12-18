@@ -5025,13 +5025,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/wp-content\/themes\/femi9\/images\/banner1.jpg": {
+	"\/wp-content\/themes\/femi9\/images\/banner2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 113225,
-		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/banner1.jpg",
-		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/banner1.jpg",
+		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/banner2.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/banner2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/themes\/femi9\/images\/bw-curtain.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7915,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/bw-curtain.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/bw-curtain.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5047,13 +5058,123 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/wp-content\/themes\/femi9\/images\/flower.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23398,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/flower.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/flower.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/themes\/femi9\/images\/grid.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37765,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/grid.png",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/grid.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/wp-content\/themes\/femi9\/images\/mobile-banner1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 71229,
+		"initialSize": 31204,
 		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/mobile-banner1.jpg",
 		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/mobile-banner1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/themes\/femi9\/images\/mobile-banner2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 119691,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/mobile-banner2.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/mobile-banner2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/themes\/femi9\/images\/mobile-models1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50357,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/mobile-models1.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/mobile-models1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/themes\/femi9\/images\/mobile-models2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25953,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/mobile-models2.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/mobile-models2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/themes\/femi9\/images\/orange-curtain.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65082,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/orange-curtain.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/orange-curtain.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/themes\/femi9\/images\/pink_curtains.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31093,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/pink_curtains.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/pink_curtains.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/themes\/femi9\/images\/rose.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37138,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/rose.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/rose.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/themes\/femi9\/images\/um.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10018,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/um.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/um.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/themes\/femi9\/images\/um.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48263,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/um.png",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/um.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5099,6 +5220,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/loop.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/themes\/femi9\/page-thefemi9story.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/page-thefemi9story.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
