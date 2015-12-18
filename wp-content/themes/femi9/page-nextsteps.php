@@ -37,11 +37,11 @@ customer experience.</p>
 		</div>
 		
 		
-		<div class="white_content_box page_three_box_two">
+		<div id="get_started" class="white_content_box page_three_box_two">
 		
 		<h1>Let’s Get&nbsp;Started</h1>
 		
-<p>form</p>		 
+<p><?php gravity_form(1, false, false, false, '', true, 12); ?></p>		 
 
 		
 	</div><!-- white_content_box -->

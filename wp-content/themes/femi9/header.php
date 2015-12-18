@@ -78,7 +78,7 @@
 		<div class="femi_bar">
 			<img class="logo" src="<?php bloginfo('template_directory');?>/images/femi9.png"/>
 			<div class="e-tour">
-				<img src="<?php bloginfo('template_directory');?>/images/etour.png"/>
+				<a href="<?php bloginfo('url');?>/next-steps#get_started"><img src="<?php bloginfo('template_directory');?>/images/etour.png"/></a>
 		</div>
 	
 </div><!-- mobile_femi_bar -->
@@ -120,7 +120,7 @@
 		<div class="femi_bar">
 			<img class="logo" src="<?php bloginfo('template_directory');?>/images/femi9.png"/>
 			<div class="e-tour">
-				<img src="<?php bloginfo('template_directory');?>/images/etour.png"/>
+				<a href="<?php bloginfo('url');?>/next-steps#get_started"><img src="<?php bloginfo('template_directory');?>/images/etour.png"/></a>
 		</div>
 	
 		</div><!-- mobile_femi_bar -->
