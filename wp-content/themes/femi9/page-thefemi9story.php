@@ -56,11 +56,11 @@ get_header(); ?>
 	</div><!-- mission_statement -->
 	
 	<div class="mobile_models2_wrapper">
-		<div class="orange_models2"></div><!-- orange_models1 -->
+		<div class="orange_models2"></div><!-- orange_models2 -->
 			
 			<img class="mobile_models2" src="<?php bloginfo('template_directory');?>/images/mobile-models2.jpg"/>
 			<img class="bwcurtain" src="<?php bloginfo('template_directory');?>/images/bw-curtain.jpg"/>
-		</div><!-- mobile_models1_wrapper -->
+		</div><!-- mobile_models2_wrapper -->
 		
 		
 		<div class="white_content_box page_two_box_two">
