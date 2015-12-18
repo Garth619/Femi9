@@ -61,7 +61,8 @@ a {
   margin-left: auto;
   margin-right: auto;
   position: relative;
-  z-index: 500; }
+  z-index: 500;
+  max-width: 800px; }
 
 .content_area {
   line-height: 1.4; }
@@ -209,7 +210,8 @@ a {
 .mobile_models3_wrapper {
   margin: 35px auto;
   width: 100%;
-  overflow: hidden; }
+  overflow: hidden;
+  max-width: 1083px; }
   .mobile_models3_wrapper .orange_models3 {
     background: rgba(253, 165, 102, 0.5);
     width: 50px;
@@ -245,7 +247,6 @@ a {
 
 .mobile_models4_wrapper {
   margin: 35px auto;
-  width: 100%;
   overflow: hidden; }
   .mobile_models4_wrapper .grid2 {
     float: left;
@@ -518,8 +519,8 @@ a {
     	width:40%;
     	margin: -280px 0px 35px 0;
     */
-    float: right;
-    max-width: 800px;
+    float: left;
+    max-width: 697px;
     /*
     	.orange_models1 {
     		background:$orangetrans;
@@ -576,71 +577,40 @@ a {
       z-index: 100; }
 
   .orange_curtains {
-    width: 63%; } }
-@media screen and (min-width: 1120px) {
-  /* Mobile Page 1 */
-  /*
-  .flower {
-  	width:75%;
-  	height:390px;
-  	background:url(images/flower.jpg) no-repeat;
-  	background-size: cover;
-  }
-  */
-  .white_content_box {
-    margin-left: 3%;
-    margin-right: 0;
-    width: 55%;
-    float: left; }
+    width: 63%; }
 
-  .page_one_box_one {
-    margin: -355px 0 45px; }
+  .mobile_models4_wrapper {
+    margin: 35px auto;
+    max-width: 825px;
+    padding: 24px; }
+    .mobile_models4_wrapper .grid2 {
+      float: left;
+      margin: 0 0 0 -15px;
+      position: relative;
+      z-index: 100; }
+    .mobile_models4_wrapper .mobile_models4 {
+      float: right;
+      margin: -62px 0 0 0;
+      position: relative;
+      z-index: 50; }
+    .mobile_models4_wrapper .grey_flower {
+      float: right;
+      margin: -36px -15px 0 0px;
+      position: relative;
+      z-index: 100; }
 
-  .pink_curtains {
-    /*
-    	width:75%;
-    	background:url(images/pink_curtains.jpg);
-    	height:550px;
-    	float:right;
-    	margin-top: -275px;
-    */
-    display: none; }
-
-  .mobile_models1_wrapper {
-    /*
-    	float:right;
-    	width:40%;
-    	margin: -280px 0px 35px 0;
-    */
-    float: right;
-    margin: -330px 0 35px;
-    width: 40%;
-    /*
-    	.orange_models1 {
-    		background:$orangetrans;
-    		width:50px;
-    		height:80px;
-    		float:left;
-    		margin:0 0 0 -15px;
-    		position:relative;
-    		z-index:100;
-    	}
-    	.mobile_grid {
-    		float:right;
-    		margin: -31px -63px 0 0;
-    		position:relative;
-    		z-index:75;
-    	}
-    	.mobile_models1 {
-    		float:right;
-    		margin:-62px 0 0 0;
-    		position:relative;
-    		z-index:50;
-    		
-    	}
-    	.um {
-    		float:left;
-    		margin:-62px 0 0 -15px;
-    		display:none;
-    	}
-    */ } }
+  .mobile_models5_wrapper {
+    margin: 35px 0;
+    width: 100%;
+    max-width: 900px; }
+    .mobile_models5_wrapper .mobile_models5 {
+      float: right;
+      margin: -62px 0 0 0;
+      position: relative;
+      z-index: 50; }
+    .mobile_models5_wrapper .pink {
+      float: left;
+      margin: -46px 0 0 -15px;
+      position: relative;
+      z-index: 100;
+      width: 100px; } }
