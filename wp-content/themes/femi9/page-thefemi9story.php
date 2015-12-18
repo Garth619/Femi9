@@ -15,10 +15,7 @@
 get_header(); ?>
 
 
-<div class="mobile_femi_bar">
-	<img src="<?php bloginfo('template_directory');?>/images/femi.png"/>
-	
-</div><!-- mobile_femi_bar -->
+
 
 <div class="content_area">
 	

@@ -66,3 +66,13 @@
 			<?php endif;?>
 
 		</div><!-- banner -->
+		
+		
+
+<div class="mobile_femi_bar">
+	<img class="logo" src="<?php bloginfo('template_directory');?>/images/femi9.png"/>
+	<div class="e-tour">
+		<img src="<?php bloginfo('template_directory');?>/images/etour.png"/>
+	</div>
+	
+</div><!-- mobile_femi_bar -->

@@ -17,14 +17,6 @@ get_header(); ?>
 
 
 
-<div class="mobile_femi_bar">
-	<img class="logo" src="<?php bloginfo('template_directory');?>/images/femi9.png"/>
-	<div class="e-tour">
-		<img src="<?php bloginfo('template_directory');?>/images/etour.png"/>
-	</div>
-	
-</div><!-- mobile_femi_bar -->
-
 <div class="content_area">
 	
 	<div class="flower"></div><!-- rose -->
