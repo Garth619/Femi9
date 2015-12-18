@@ -2,5 +2,71 @@
 Theme Name: Femi9
 Author: Garrett Cullen
 */
+* {
+  margin: 0;
+  padding: 0; }
 
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; }
 
+a {
+  outline: none; }
+
+a img {
+  border: none; }
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block; }
+
+body {
+  color: #6c6c6c;
+  font-family: "aaux-next";
+  font-weight: 300;
+  line-height: 1; }
+
+a {
+  color: #6c6c6c;
+  text-decoration: none; }
+
+.wrapper {
+  width: 100%; }
+
+.mobile_femi_bar {
+  background: #fda566;
+  width: 100%;
+  padding: 2% 0; }
+  .mobile_femi_bar img {
+    margin: 0px auto;
+    width: 40%; }
+
+.fixed_footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%; }
+  .fixed_footer ul {
+    list-style: none;
+    margin: 0;
+    width: 100%;
+    border-top: 1px solid #d2d2d2;
+    border-bottom: 1px solid #d2d2d2;
+    overflow: hidden; }
+    .fixed_footer ul li {
+      background: #fff;
+      border-right: 1px solid #d2d2d2;
+      float: left;
+      width: 25%;
+      height: 45px;
+      text-align: center;
+      text-transform: uppercase;
+      display: table;
+      font-size: 12px; }
+      .fixed_footer ul li a {
+        display: table-cell;
+        vertical-align: middle;
+        padding: 0 5px; }
+    .fixed_footer ul li:last-child {
+      border-right: none; }
