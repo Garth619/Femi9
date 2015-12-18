@@ -37,19 +37,22 @@ a {
   width: 100%;
   overflow: hidden; }
 
-.mobile_femi_bar {
+.femi_bar {
   background: #fda566;
   width: 100%;
   padding: 2% 0; }
-  .mobile_femi_bar img {
+  .femi_bar img {
     margin: 0px auto; }
-  .mobile_femi_bar img.logo {
+  .femi_bar img.logo {
     width: 53%; }
-  .mobile_femi_bar .e-tour {
-    width: 40%;
+  .femi_bar .e-tour {
+    width: 37%;
     margin: -4px auto 8px;
     position: relative;
     left: 1%; }
+
+.desktop_menu {
+  display: none; }
 
 .white_content_box {
   background: #fff none repeat scroll 0 0;
@@ -418,19 +421,68 @@ a {
 @media screen and (min-width: 820px) {
   .banner {
     position: relative; }
+    .banner img.slide {
+      width: 100%;
+      height: auto; }
 
-  .mobile_femi_bar {
+  .femi_bar {
     background: rgba(253, 165, 102, 0.95);
     width: 33%;
-    padding: 2% 0;
     position: absolute;
     bottom: 35%; }
-    .mobile_femi_bar img {
-      margin: 0px auto; }
-    .mobile_femi_bar img.logo {
+    .femi_bar img.logo {
       width: 74%; }
-    .mobile_femi_bar .e-tour {
-      width: 60%;
-      margin: -4px auto 8px;
-      position: relative;
-      left: 1%; } }
+    .femi_bar .e-tour {
+      width: 54%;
+      		/*margin:-4px auto 8px;
+      		position:relative;
+      		left:1%;
+      */ }
+
+  .desktop_menu {
+    display: block;
+    background: #fff;
+    padding-bottom: 2px; }
+    .desktop_menu ul {
+      width: 100%;
+      list-style: none;
+      margin: 0;
+      background: #fff;
+      overflow: hidden;
+      padding: 10px 0;
+      border-bottom: 2px solid #e6d7d3; }
+      .desktop_menu ul li {
+        float: left;
+        font-family: "aaux-next";
+        text-transform: uppercase;
+        width: 25%;
+        font-size: 15px; }
+        .desktop_menu ul li a {
+          display: block;
+          padding-left: 30%; }
+        .desktop_menu ul li a:hover {
+          color: #fda566; }
+        .desktop_menu ul li a:hover:after {
+          content: "";
+          display: inline-block;
+          background: #fda566;
+          width: 6px;
+          height: 6px;
+          position: relative;
+          top: -3px;
+          border-radius: 50%;
+          -webkit-border-radius: 50%;
+          -moz-border-radius: 50%;
+          margin-left: 3px; }
+      .desktop_menu ul li.current_page_item a:after {
+        content: "";
+        display: inline-block;
+        background: #fda566;
+        width: 6px;
+        height: 6px;
+        position: relative;
+        top: -3px;
+        border-radius: 50%;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        margin-left: 3px; } }

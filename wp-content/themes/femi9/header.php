@@ -56,26 +56,26 @@
 		<div class="banner">
 	
 			<?php if(is_page('6')):?>
-				<img src="<?php bloginfo('template_directory');?>/images/mobile-banner1.jpg"/>
+				<img class="slide" src="<?php bloginfo('template_directory');?>/images/mobile-banner1.jpg"/>
 			<?php endif;?>
 			
 			
 			<?php if(is_page('10')):?>
-				<img src="<?php bloginfo('template_directory');?>/images/mobile-banner2.jpg"/>
+				<img class="slide" src="<?php bloginfo('template_directory');?>/images/mobile-banner2.jpg"/>
 			<?php endif;?>
 			
 			<?php if(is_page('12')):?>
-				<img src="<?php bloginfo('template_directory');?>/images/mobile-banner3.jpg"/>
+				<img class="slide" src="<?php bloginfo('template_directory');?>/images/mobile-banner3.jpg"/>
 			<?php endif;?>
 			
 			<?php if(is_page('14')):?>
-				<img src="<?php bloginfo('template_directory');?>/images/mobile-banner4.jpg"/>
+				<img class="slide" src="<?php bloginfo('template_directory');?>/images/mobile-banner4.jpg"/>
 			<?php endif;?>
 			
 
 
 		
-		<div class="mobile_femi_bar">
+		<div class="femi_bar">
 			<img class="logo" src="<?php bloginfo('template_directory');?>/images/femi9.png"/>
 			<div class="e-tour">
 				<img src="<?php bloginfo('template_directory');?>/images/etour.png"/>
@@ -98,26 +98,26 @@
 		<div class="banner">
 	
 			<?php if(is_page('6')):?>
-				<img src="<?php bloginfo('template_directory');?>/images/banner1.jpg"/>
+				<img class="slide" src="<?php bloginfo('template_directory');?>/images/banner1.jpg"/>
 			<?php endif;?>
 			
 			
 			<?php if(is_page('10')):?>
-				<img src="<?php bloginfo('template_directory');?>/images/mobile-banner2.jpg"/>
+				<img class="slide" src="<?php bloginfo('template_directory');?>/images/banner2d.jpg"/>
 			<?php endif;?>
 			
 			<?php if(is_page('12')):?>
-				<img src="<?php bloginfo('template_directory');?>/images/mobile-banner3.jpg"/>
+				<img class="slide" src="<?php bloginfo('template_directory');?>/images/banner3.jpg"/>
 			<?php endif;?>
 			
 			<?php if(is_page('14')):?>
-				<img src="<?php bloginfo('template_directory');?>/images/mobile-banner4.jpg"/>
+				<img class="slide" src="<?php bloginfo('template_directory');?>/images/banner4.jpg"/>
 			<?php endif;?>
 			
 
 
 		
-		<div class="mobile_femi_bar">
+		<div class="femi_bar">
 			<img class="logo" src="<?php bloginfo('template_directory');?>/images/femi9.png"/>
 			<div class="e-tour">
 				<img src="<?php bloginfo('template_directory');?>/images/etour.png"/>
@@ -128,7 +128,13 @@
 		
 		</div><!-- banner -->
 		
-	<?php endif;?><!-- end of mobile -->
+		<div class="desktop_menu">
+			<?php wp_nav_menu( array( 'container_class' => 'menu-header', 'theme_location' => 'primary' ) ); ?>
+		</div><!-- desktop menu -->
+		
+		
+		
+	<?php endif;?><!-- end of desktop -->
 			
 			
 			
