@@ -896,27 +896,175 @@ float: left;
 
 
 .mobile_models5_wrapper {
+
+max-width:800px;
+	float:left;
+
+/*
 // 	width:87%;
 	margin: 35px 0;
 	width:100%;
 // 	overflow: hidden;
 // 	float:left;
-	max-width:900px;
+*/
+	
 	.mobile_models5 {
+/*
 		float:right;
 		margin:-62px 0 0 0;
 		position:relative;
 		z-index:50;
+*/
 	}
 	.pink {
-		float:left;
-		margin:-46px 0 0 -15px;
+// 		float:left;
+		margin:-107px 0 0 -15px;
+/*
 		position:relative;
 		z-index:100;
+		width:100px;
+*/
+	}
+
+}
+
+.page_three_box_four {
+	overflow: hidden;
+}
+
+
+
+
+
+.mobile_models6_wrapper {
+// 	width:87%;
+	margin: 35px auto;
+	width:100%;
+	overflow: hidden;
+	max-width:800px;
+	padding:50px;
+// 	float: right;
+	.cracks {
+		float:left;
+		margin:0px 0 0 -15px;
+		position:relative;
+		z-index:50;
+		width:100px;
+	}
+	.mobile_models6 {
+		float:right;
+		margin:-62px 0 0 0;
+		position:relative;
+		z-index:75;
+	}
+	.pink_square2 {
+		float:left;
+		margin:-36px 0 0 -15px;
+		position:relative;
+		z-index:100;
+		width:80px;
+		height:90px;
+		
+		
+		
+		
+	}
+	
+	.curtain_pattern {
+		float:right;
+		margin:-53px 0 0 0px;
+		position:relative;
+		z-index:50;
 		width:100px;
 	}
 
 }
+
+
+
+
+.mobile_models7_wrapper {
+// 	width:87%;
+	margin: 35px 0;
+	float:left;
+	width:100%;
+	overflow: hidden;
+	max-width:800px;
+	padding:45px;
+	.palm_trees {
+/*
+		float:right;
+		margin:0px 0 30px 0px;
+		position:relative;
+		z-index:100;
+		width:100px;
+*/
+	}
+	.mobile_models7 {
+/*
+		float:right;
+		margin:-62px 0 0 0;
+		position:relative;
+		z-index:75;
+*/
+	}
+	.orange2 {
+
+float:left;
+/*
+		background:$orangetrans;
+		width:50px;
+		height:80px;
+		float:right;
+		margin:-35px 0 0 -15px;
+		position:relative;
+		z-index:100;
+*/		
+		
+		
+	}
+	
+
+
+}
+
+
+
+
+
+.mobile_models8_wrapper {
+// 	width:87%;
+	margin: 35px 0;
+	width:100%;
+	overflow: hidden;
+	max-width:900px;
+	padding:50px;
+	float:right;
+	.mobile_models8 {
+/*
+		float:right;
+		margin:-62px 0 0 0;
+		position:relative;
+		z-index:75;
+*/
+	}
+	.rose2 {
+		 margin: -35px -17px 0 0;
+		
+/*
+		float:right;
+		margin:-35px 0 0 -15px;
+		position:relative;
+		z-index:100;		
+*/
+		
+		
+	}
+	
+
+
+}
+
 
 
 
