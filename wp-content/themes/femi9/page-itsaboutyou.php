@@ -106,14 +106,35 @@ get_header(); ?>
 	
 	
 	<div class="mobile_models5_wrapper">
-		
-			<img class="grid2" src="<?php bloginfo('template_directory');?>/images/grid2.png"/>
-			<img class="mobile_models4" src="<?php bloginfo('template_directory');?>/images/mobile-models5.jpg"/>
+			<img class="mobile_models5" src="<?php bloginfo('template_directory');?>/images/mobile-models5.jpg"/>
 			<img class="pink" src="<?php bloginfo('template_directory');?>/images/pink.jpg"/>
-		</div>
+	</div>
+	
+	
+	<div class="white_content_box page_three_box_four">
+		
+		<h1>How do you&nbsp;benefit?</h1>
+		
+		 
+<ul>
+	<li>As a femi9 franchisee, you will be pioneering a young and growing brand, and introducing something new and exciting in your market</li>
+	<li>You will be closing a gap in terms of high value, elegant, feminine and affordable day and  occasion wear</li>
+	<li>This opportunity can serve to complement your current business focus, investment or portfolio, in an exciting and booming (fast fashion) industry, and with a brand that has a growing following- a brand 	  for women, loved by women</li> 
+	<li>You will leverage our proven business model and systems to help secure customer frequency, loyalty and a growing customer base.</li>
+</ul> 	
+
+ 	</div><!-- white_content_box -->
+	
+	<div class="mobile_models6_wrapper">
+			<img class="cracks" src="<?php bloginfo('template_directory');?>/images/cracks.jpg"/>
+			<img class="mobile_models6" src="<?php bloginfo('template_directory');?>/images/mobile-model6.jpg"/>
+			<div class="pink_square2" src="<?php bloginfo('template_directory');?>/images/pink.jpg"></div>
+			<img class="curtain_pattern" src="<?php bloginfo('template_directory');?>/images/curtain-pattern.jpg"/>
+	</div>
+	
 	
 		
-		<div class="orange_curtains"></div><!-- orange_curtains -->
+		<div class="wavy"></div><!-- orange_curtains -->
 		
 	
 </div><!-- content_area -->

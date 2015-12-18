@@ -5047,6 +5047,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/wp-content\/themes\/femi9\/images\/cracks.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3633,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/cracks.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/cracks.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/themes\/femi9\/images\/curtain-pattern.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6710,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/curtain-pattern.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/curtain-pattern.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/wp-content\/themes\/femi9\/images\/femi.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -5179,6 +5201,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/wp-content\/themes\/femi9\/images\/mobile-model6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 170612,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/mobile-model6.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/mobile-model6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/wp-content\/themes\/femi9\/images\/mobile-models1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -5274,6 +5307,17 @@
 		"initialSize": 48263,
 		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/um.png",
 		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/um.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/themes\/femi9\/images\/wavy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24793,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/wavy.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/wavy.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
