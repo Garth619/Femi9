@@ -71,7 +71,7 @@ customer experience.</p>
 		
 	
 		
-<!-- 		<div class="wavy"></div> -->
+<div class="rose3"></div>
 		
 	
 </div><!-- content_area -->

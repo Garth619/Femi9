@@ -5069,6 +5069,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/wp-content\/themes\/femi9\/images\/etour.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7629,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/etour.png",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/etour.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/wp-content\/themes\/femi9\/images\/femi.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -5076,6 +5087,17 @@
 		"initialSize": 6957,
 		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/femi.png",
 		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/femi.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/themes\/femi9\/images\/femi9.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60674,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/femi9.png",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/femi9.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -5340,6 +5362,17 @@
 		"initialSize": 3273,
 		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/rose2.jpg",
 		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/rose2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/themes\/femi9\/images\/rose3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51443,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/rose3.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/rose3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

@@ -42,8 +42,9 @@ a {
   width: 100%;
   padding: 2% 0; }
   .mobile_femi_bar img {
-    margin: 0px auto;
-    width: 40%; }
+    margin: 0px auto; }
+  .mobile_femi_bar img.logo {
+    width: 50%; }
 
 .white_content_box {
   background: #fff none repeat scroll 0 0;
@@ -360,6 +361,14 @@ a {
     margin: -35px 0 0 -15px;
     position: relative;
     z-index: 100; }
+
+.rose3 {
+  background: transparent url("images/rose3.jpg") no-repeat scroll 0 0;
+  float: right;
+  height: 470px;
+  margin-bottom: 45px;
+  margin-top: -1235px;
+  width: 108%; }
 
 /* Mobile Footer */
 .fixed_footer {

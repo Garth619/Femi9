@@ -56,7 +56,10 @@ a {
 	padding:2% 0;
 	img {
 		margin:0px auto;
-		width:40%;
+		
+	}
+	img.logo {
+		width:50%;
 	}
 }
 
@@ -529,6 +532,18 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f7b9a2', e
 	
 
 
+}
+
+
+
+
+.rose3 {
+	   background: transparent url("images/rose3.jpg") no-repeat scroll 0 0;
+    float: right;
+    height: 470px;
+    margin-bottom: 45px;
+    margin-top: -1235px;
+    width: 108%;
 }
 
 		
