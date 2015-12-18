@@ -453,6 +453,83 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f7b9a2', e
 }
 
 
+/* Mobile Page Four */
+
+
+
+.sand {
+	width:75%;
+	height:550px;
+	background:url(images/sand.jpg) no-repeat;
+	background-size: cover;
+}
+
+
+
+.mobile_models7_wrapper {
+// 	width:87%;
+	margin: 35px auto;
+	width:100%;
+	overflow: hidden;
+	.palm_trees {
+		float:right;
+		margin:0px 0 30px 0px;
+		position:relative;
+		z-index:100;
+		width:100px;
+	}
+	.mobile_models7 {
+		float:right;
+		margin:-62px 0 0 0;
+		position:relative;
+		z-index:75;
+	}
+	.orange2 {
+		background:$orangetrans;
+		width:50px;
+		height:80px;
+		float:right;
+		margin:-35px 0 0 -15px;
+		position:relative;
+		z-index:100;		
+		
+		
+	}
+	
+
+
+}
+
+
+
+
+
+.mobile_models8_wrapper {
+// 	width:87%;
+	margin: 35px auto;
+	width:100%;
+	overflow: hidden;
+	
+	.mobile_models8 {
+		float:right;
+		margin:-62px 0 0 0;
+		position:relative;
+		z-index:75;
+	}
+	.rose2 {
+		
+		
+		float:right;
+		margin:-35px 0 0 -15px;
+		position:relative;
+		z-index:100;		
+		
+		
+	}
+	
+
+
+}
 
 		
 
