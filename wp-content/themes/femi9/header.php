@@ -45,3 +45,24 @@
 <body <?php body_class(); ?>>
 	
 	<div class="wrapper">
+		
+		<div class="banner">
+	
+			<?php if(is_page('6')):?>
+				<img src="<?php bloginfo('template_directory');?>/images/mobile-banner1.jpg"/>
+			<?php endif;?>
+			
+			
+			<?php if(is_page('10')):?>
+				<img src="<?php bloginfo('template_directory');?>/images/mobile-banner2.jpg"/>
+			<?php endif;?>
+			
+			<?php if(is_page('12')):?>
+				<img src="<?php bloginfo('template_directory');?>/images/mobile-banner3.jpg"/>
+			<?php endif;?>
+			
+			<?php if(is_page('14')):?>
+				<img src="<?php bloginfo('template_directory');?>/images/mobile-banner4.jpg"/>
+			<?php endif;?>
+
+		</div><!-- banner -->

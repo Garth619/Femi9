@@ -59,7 +59,13 @@ a {
 		
 	}
 	img.logo {
-		width:50%;
+		width:53%;
+	}
+	.e-tour {
+		width:40%;
+		margin:-4px auto 0;
+		position:relative;
+		left:1%;
 	}
 }
 
@@ -132,7 +138,7 @@ a {
 
 .mobile_models1_wrapper {
 	float:right;
-	max-width:345px;
+	width:100%;
 	margin: -280px 0px 35px 0;
 	.orange_models1 {
 		background:$orangetrans;
@@ -154,6 +160,7 @@ a {
 		margin:-62px 0 0 0;
 		position:relative;
 		z-index:50;
+		
 	}
 	.um {
 		float:left;
@@ -577,7 +584,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f7b9a2', e
 			text-align: center;
 			text-transform: uppercase;
 			display: table;
-			font-size:12px;
+			font-size: 12px;
 			font-family:$fontaaux;
 			a {
 				display: table-cell;
@@ -596,6 +603,34 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f7b9a2', e
 		}
 		
 	}
+}
+
+
+
+
+@media screen and (min-width: 590px) {
+	
+	
+	
+	
+	.fixed_footer {
+		ul {
+			li {
+				font-size:15px;
+				a {
+				}
+			a:hover {}
+			}
+			li.current_page_item a {
+			color:$orange;
+		}
+	}
+}
+	
+	
+	
+	
+	
 }
 
 

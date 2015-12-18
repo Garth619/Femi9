@@ -44,7 +44,12 @@ a {
   .mobile_femi_bar img {
     margin: 0px auto; }
   .mobile_femi_bar img.logo {
-    width: 50%; }
+    width: 53%; }
+  .mobile_femi_bar .e-tour {
+    width: 40%;
+    margin: -4px auto 0;
+    position: relative;
+    left: 1%; }
 
 .white_content_box {
   background: #fff none repeat scroll 0 0;
@@ -94,7 +99,7 @@ a {
 
 .mobile_models1_wrapper {
   float: right;
-  max-width: 345px;
+  width: 100%;
   margin: -280px 0px 35px 0; }
   .mobile_models1_wrapper .orange_models1 {
     background: rgba(253, 165, 102, 0.5);
@@ -404,3 +409,9 @@ a {
       border-right: none; }
     .fixed_footer ul li.current_page_item a {
       color: #fda566; }
+
+@media screen and (min-width: 590px) {
+  .fixed_footer ul li {
+    font-size: 15px; }
+  .fixed_footer ul li.current_page_item a {
+    color: #fda566; } }

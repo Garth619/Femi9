@@ -15,11 +15,7 @@
 get_header(); ?>
 
 
-<div class="banner">
-	
-	<img src="<?php bloginfo('template_directory');?>/images/mobile-banner1.jpg"/>
 
-</div><!-- banner -->
 
 <div class="mobile_femi_bar">
 	<img class="logo" src="<?php bloginfo('template_directory');?>/images/femi9.png"/>
