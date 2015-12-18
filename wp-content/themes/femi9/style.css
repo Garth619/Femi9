@@ -456,7 +456,7 @@ a {
         font-family: "aaux-next";
         text-transform: uppercase;
         width: 25%;
-        font-size: 15px; }
+        font-size: 16px; }
         .desktop_menu ul li a {
           display: block;
           padding-left: 30%; }
@@ -486,3 +486,63 @@ a {
         -webkit-border-radius: 50%;
         -moz-border-radius: 50%;
         margin-left: 3px; } }
+@media screen and (min-width: 1120px) {
+  /* Mobile Page 1 */
+  /*
+  .flower {
+  	width:75%;
+  	height:390px;
+  	background:url(images/flower.jpg) no-repeat;
+  	background-size: cover;
+  }
+  */
+  .white_content_box {
+    margin-left: 3%;
+    margin-right: 0;
+    width: 55%;
+    float: left; }
+
+  .page_one_box_one {
+    margin: -355px 0 45px; }
+
+  .pink_curtains {
+    /*
+    	width:75%;
+    	background:url(images/pink_curtains.jpg);
+    	height:550px;
+    	float:right;
+    	margin-top: -275px;
+    */
+    display: none; }
+
+  .mobile_models1_wrapper {
+    /*
+    	float:right;
+    	width:40%;
+    	margin: -280px 0px 35px 0;
+    */
+    float: right;
+    margin: -330px 0 35px;
+    width: 40%; }
+    .mobile_models1_wrapper .orange_models1 {
+      background: rgba(253, 165, 102, 0.5);
+      width: 50px;
+      height: 80px;
+      float: left;
+      margin: 0 0 0 -15px;
+      position: relative;
+      z-index: 100; }
+    .mobile_models1_wrapper .mobile_grid {
+      float: right;
+      margin: -31px -63px 0 0;
+      position: relative;
+      z-index: 75; }
+    .mobile_models1_wrapper .mobile_models1 {
+      float: right;
+      margin: -62px 0 0 0;
+      position: relative;
+      z-index: 50; }
+    .mobile_models1_wrapper .um {
+      float: left;
+      margin: -62px 0 0 -15px;
+      display: none; } }

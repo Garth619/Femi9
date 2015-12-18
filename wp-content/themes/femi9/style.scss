@@ -696,7 +696,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f7b9a2', e
 			font-family:$fontaaux;
 			text-transform: uppercase;
 			width:25%;
-			font-size:15px;
+			font-size:16px;
 			a {
 				display: block;
 				padding-left: 30%;
@@ -738,6 +738,116 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f7b9a2', e
 
 
 
+
+	
+	
+	
+	
+}
+
+
+
+@media screen and (min-width: 1120px) {
+	
+	
+	
+	
+	/* Mobile Page 1 */
+
+
+
+
+
+/*
+.flower {
+	width:75%;
+	height:390px;
+	background:url(images/flower.jpg) no-repeat;
+	background-size: cover;
+}
+*/
+
+
+.white_content_box {
+	margin-left:3%;
+	margin-right:0;
+	width:55%;
+	float:left;
+}
+
+
+.page_one_box_one {
+	margin:-355px 0 45px;
+	
+}
+
+
+
+.pink_curtains {
+/*
+	width:75%;
+	background:url(images/pink_curtains.jpg);
+	height:550px;
+	float:right;
+	margin-top: -275px;
+*/
+display:none;
+}
+
+
+.mobile_models1_wrapper {
+/*
+	float:right;
+	width:40%;
+	margin: -280px 0px 35px 0;
+*/
+
+float: right;
+    margin: -330px 0 35px;
+    width: 40%;
+
+
+	.orange_models1 {
+		background:$orangetrans;
+		width:50px;
+		height:80px;
+		float:left;
+		margin:0 0 0 -15px;
+		position:relative;
+		z-index:100;
+	}
+	.mobile_grid {
+		float:right;
+		margin: -31px -63px 0 0;
+		position:relative;
+		z-index:75;
+	}
+	.mobile_models1 {
+		float:right;
+		margin:-62px 0 0 0;
+		position:relative;
+		z-index:50;
+		
+	}
+	.um {
+		float:left;
+		margin:-62px 0 0 -15px;
+		display:none;
+	}
+
+
+
+}
+
+
+
+
+	
+	
+	
+	
+	
+	
 	
 	
 	
