@@ -44,8 +44,15 @@
 
 <body <?php body_class(); ?>>
 	
+	
+
+	
+	
+	
 	<div class="wrapper">
 		
+<?php if (is_mobile()):?>	
+	
 		<div class="banner">
 	
 			<?php if(is_page('6')):?>
@@ -64,15 +71,68 @@
 			<?php if(is_page('14')):?>
 				<img src="<?php bloginfo('template_directory');?>/images/mobile-banner4.jpg"/>
 			<?php endif;?>
+			
 
-		</div><!-- banner -->
-		
-		
 
-<div class="mobile_femi_bar">
-	<img class="logo" src="<?php bloginfo('template_directory');?>/images/femi9.png"/>
-	<div class="e-tour">
-		<img src="<?php bloginfo('template_directory');?>/images/etour.png"/>
-	</div>
+		
+		<div class="mobile_femi_bar">
+			<img class="logo" src="<?php bloginfo('template_directory');?>/images/femi9.png"/>
+			<div class="e-tour">
+				<img src="<?php bloginfo('template_directory');?>/images/etour.png"/>
+		</div>
 	
 </div><!-- mobile_femi_bar -->
+		
+		
+		</div><!-- banner -->
+		
+			<?php endif;?><!-- end of mobile -->
+			
+			
+			
+			
+			
+			
+	<?php if (!is_mobile()):?>	
+	
+		<div class="banner">
+	
+			<?php if(is_page('6')):?>
+				<img src="<?php bloginfo('template_directory');?>/images/banner1.jpg"/>
+			<?php endif;?>
+			
+			
+			<?php if(is_page('10')):?>
+				<img src="<?php bloginfo('template_directory');?>/images/mobile-banner2.jpg"/>
+			<?php endif;?>
+			
+			<?php if(is_page('12')):?>
+				<img src="<?php bloginfo('template_directory');?>/images/mobile-banner3.jpg"/>
+			<?php endif;?>
+			
+			<?php if(is_page('14')):?>
+				<img src="<?php bloginfo('template_directory');?>/images/mobile-banner4.jpg"/>
+			<?php endif;?>
+			
+
+
+		
+		<div class="mobile_femi_bar">
+			<img class="logo" src="<?php bloginfo('template_directory');?>/images/femi9.png"/>
+			<div class="e-tour">
+				<img src="<?php bloginfo('template_directory');?>/images/etour.png"/>
+		</div>
+	
+		</div><!-- mobile_femi_bar -->
+		
+		
+		</div><!-- banner -->
+		
+	<?php endif;?><!-- end of mobile -->
+			
+			
+			
+			
+			
+
+

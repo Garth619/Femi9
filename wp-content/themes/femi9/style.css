@@ -415,3 +415,22 @@ a {
     font-size: 15px; }
   .fixed_footer ul li.current_page_item a {
     color: #fda566; } }
+@media screen and (min-width: 820px) {
+  .banner {
+    position: relative; }
+
+  .mobile_femi_bar {
+    background: rgba(253, 165, 102, 0.95);
+    width: 33%;
+    padding: 2% 0;
+    position: absolute;
+    bottom: 35%; }
+    .mobile_femi_bar img {
+      margin: 0px auto; }
+    .mobile_femi_bar img.logo {
+      width: 74%; }
+    .mobile_femi_bar .e-tour {
+      width: 60%;
+      margin: -4px auto 8px;
+      position: relative;
+      left: 1%; } }

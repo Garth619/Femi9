@@ -4438,6 +4438,76 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/wp-content\/plugins\/mobble\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/mobble\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/mobble\/mobble.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/mobble\/mobble.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/mobble\/Mobile_Detect.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/mobble\/Mobile_Detect.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/plugins\/mobble\/readme.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/mobble\/readme.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/mobble\/readme.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
+	"\/wp-content\/plugins\/mobble\/scott.ee.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 470,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/mobble\/scott.ee.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/mobble\/scott.ee.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/plugins\/mobble\/toggle.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 761,
+		"inputAbbreviatedPath": "\/wp-content\/plugins\/mobble\/toggle.png",
+		"outputAbbreviatedPath": "\/wp-content\/plugins\/mobble\/toggle.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/wp-content\/plugins\/wp-migrate-db-pro\/asset\/css\/plugin-update-styles.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -5024,6 +5094,17 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/themes\/femi9\/images\/banner1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56534,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/banner1.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/banner1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/wp-content\/themes\/femi9\/images\/banner2.jpg": {
 		"fileType": 16384,
@@ -5612,20 +5693,20 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/wp-content\/themes\/femi9\/test-desktop.html": {
+	"\/wp-content\/themes\/femi9\/test-desktop.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/test-desktop.html",
+		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/test-desktop.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/wp-content\/themes\/femi9\/test-mobile.html": {
+	"\/wp-content\/themes\/femi9\/test-mobile.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/test-mobile.html",
+		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/test-mobile.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
