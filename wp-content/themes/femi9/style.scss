@@ -74,13 +74,18 @@ a {
 	.e-tour.cloned {
 		padding:3px 5px !important;
 		background:$orange  !important;
-		font-size:19px  !important;
+// 		width:42% !important;
 	}
 
 }
 
 .desktop_menu {
 	display:none;
+}
+
+.desktop_menu.cloned {
+	opacity: 0;
+	
 }
 
 
@@ -528,7 +533,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f7b9a2', e
     float: right;
     height: 700px;
     margin-bottom: 45px;
-    margin-top: -1805px;
+    margin-top: -1814px;
     width: 75%;
 	
 }
@@ -789,7 +794,10 @@ input#gform_submit_button_1.gform_button.button {
 	}
 }
 
-
+.desktop_menu.cloned {
+	opacity: 1;
+	
+}
 
 
 .desktop_menu {
@@ -1085,7 +1093,7 @@ max-width:800px;
 	
 	.curtain_pattern {
 		float:right;
-		margin:-53px 0 0 0px;
+		margin: -53px -22px 0 0;
 		position:relative;
 		z-index:50;
 		width:100px;

@@ -53,11 +53,13 @@ a {
     padding: 0px 5px; }
   .femi_bar .e-tour.cloned {
     padding: 3px 5px !important;
-    background: #fda566 !important;
-    font-size: 19px  !important; }
+    background: #fda566 !important; }
 
 .desktop_menu {
   display: none; }
+
+.desktop_menu.cloned {
+  opacity: 0; }
 
 .white_content_box {
   background: #fff none repeat scroll 0 0;
@@ -372,7 +374,7 @@ a {
   float: right;
   height: 700px;
   margin-bottom: 45px;
-  margin-top: -1805px;
+  margin-top: -1814px;
   width: 75%; }
 
 /* Mobile Page Four */
@@ -526,6 +528,9 @@ input#gform_submit_button_1.gform_button.button {
       		position:relative;
       		left:1%;
       */ }
+
+  .desktop_menu.cloned {
+    opacity: 1; }
 
   .desktop_menu {
     display: block;
@@ -742,7 +747,7 @@ input#gform_submit_button_1.gform_button.button {
       height: 90px; }
     .mobile_models6_wrapper .curtain_pattern {
       float: right;
-      margin: -53px 0 0 0px;
+      margin: -53px -22px 0 0;
       position: relative;
       z-index: 50;
       width: 100px; }
