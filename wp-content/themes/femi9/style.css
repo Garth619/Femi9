@@ -396,10 +396,11 @@ a {
     padding-left: 5px;
     font: "aaux-next";
     color: #6c6c6c;
-    border: 1px solid #6c6c6c;
+    border: 0.5px solid #6c6c6c;
     box-shadow: none;
     -webkit-box-shadow: none;
-    -moz-box-shadow: none; }
+    -moz-box-shadow: none;
+    -webkit-appearance: none; }
 
 .gform_confirmation_message {
   text-align: center; }
