@@ -40,12 +40,7 @@ a {
 .femi_bar {
   background: #fda566;
   width: 100%;
-  padding: 2% 0;
-  /*
-  	.e-tour.cloned {
-  		padding:3px 5px;
-  	}
-  */ }
+  padding: 2% 0; }
   .femi_bar img {
     margin: 0px auto; }
   .femi_bar img.logo {
@@ -56,6 +51,10 @@ a {
     position: relative;
     left: 1%;
     padding: 0px 5px; }
+  .femi_bar .e-tour.cloned {
+    padding: 3px 5px !important;
+    background: #fda566 !important;
+    font-size: 19px  !important; }
 
 .desktop_menu {
   display: none; }
