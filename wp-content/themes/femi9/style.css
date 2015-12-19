@@ -395,7 +395,8 @@ a {
     height: 35px;
     padding-left: 5px;
     font: "aaux-next";
-    color: #6c6c6c; }
+    color: #6c6c6c;
+    border: #6c6c6c; }
 
 .gform_confirmation_message {
   text-align: center; }
@@ -430,7 +431,8 @@ input#gform_submit_button_1.gform_button.button {
     width: 100%;
     border-top: 0.5px solid #d2d2d2;
     border-bottom: 0.5px solid #d2d2d2;
-    overflow: hidden; }
+    overflow: hidden;
+    font-weight: 400; }
     .fixed_footer ul li {
       background: #fff;
       border-right: 0.5px solid #d2d2d2;
