@@ -46,10 +46,12 @@ a {
   .femi_bar img.logo {
     width: 53%; }
   .femi_bar .e-tour {
-    width: 37%;
+    width: 38%;
     margin: -4px auto 8px;
     position: relative;
-    left: 1%; }
+    left: 1%;
+    padding: 0 5px;
+    background: #fda566; }
 
 .desktop_menu {
   display: none; }
@@ -186,7 +188,8 @@ a {
     float: right;
     margin: -82px 0 0 -15px;
     position: relative;
-    z-index: 100; }
+    z-index: 100;
+    width: 80px; }
 
 .page_two_box_two {
   margin-bottom: 45px;
@@ -379,6 +382,36 @@ a {
   margin-top: -1235px;
   width: 108%; }
 
+.gform_wrapper ul {
+  list-style: none;
+  margin: 0; }
+  .gform_wrapper ul li input {
+    width: 100%;
+    height: 35px;
+    padding-left: 5px;
+    font: "aaux-next";
+    color: #6c6c6c; }
+
+.gform_confirmation_message {
+  text-align: center; }
+
+input#gform_submit_button_1.gform_button.button {
+  background: #fda566;
+  border: none;
+  color: #fff;
+  padding: 5px;
+  text-transform: uppercase;
+  font-size: 16px;
+  cursor: pointer;
+  padding-left: 5px !important; }
+
+.validation_error {
+  display: none; }
+
+.validation_message {
+  padding-top: 5px;
+  color: #fda566; }
+
 /* Mobile Footer */
 .fixed_footer {
   position: fixed;
@@ -434,7 +467,8 @@ a {
     .femi_bar img.logo {
       width: 74%; }
     .femi_bar .e-tour {
-      width: 54%;
+      background: #fda566;
+      width: 55%;
       		/*margin:-4px auto 8px;
       		position:relative;
       		left:1%;
@@ -571,10 +605,12 @@ a {
       position: relative;
       z-index: 50; }
     .mobile_models2_wrapper .bwcurtain {
-      float: right;
-      margin: -82px -15px 0 -15px;
-      position: relative;
-      z-index: 100; }
+      /*
+      		float:right;
+      		margin:-82px -15px 0 -15px;
+      		position:relative;
+      		z-index:100;
+      */ }
 
   .orange_curtains {
     width: 63%; }
@@ -695,7 +731,8 @@ a {
       */ }
 
   .page_three_box_two {
-    overflow: hidden; }
+    overflow: hidden;
+    min-height: 300px; }
 
   .mobile_models8_wrapper {
     margin: 35px 0;
@@ -719,7 +756,7 @@ a {
       		position:relative;
       		z-index:100;		
       */ } }
-@media screen and (min-width: 1375px) {
+@media screen and (min-width: 1450px) {
   .wrapper {
     margin: 0 auto;
-    max-width: 1375px; } }
+    max-width: 1450px; } }

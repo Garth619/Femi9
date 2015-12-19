@@ -40,6 +40,61 @@
 <?php wp_head(); ?>
 <script src="https://use.typekit.net/bud2inz.js"></script>
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
+<script src="<?php bloginfo('template_directory');?>/stick/jq-sticky-anything.min.js" type="text/javascript"></script>
+
+
+<?php if (!is_mobile()):?>	
+
+
+<script type="text/javascript">
+	
+	jQuery(document).ready(function(){
+		
+		jQuery('.desktop_menu').stickThis({
+			
+			zindex:     10000
+			
+		});
+		
+		
+	});
+	
+	
+</script>
+
+
+<?php endif;?>
+
+
+
+
+<?php if (is_mobile()):?>	
+
+
+<script type="text/javascript">
+	
+	jQuery(document).ready(function(){
+		
+		jQuery('.e-tour').stickThis({
+			
+			zindex:     10000
+			
+		});
+		
+		
+	});
+	
+	
+</script>
+
+
+<?php endif;?>
+
+
+
+
+
+
 </head>
 
 <body <?php body_class(); ?>>
