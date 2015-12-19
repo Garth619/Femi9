@@ -55,8 +55,7 @@ a {
     margin: -4px auto 8px;
     position: relative;
     left: 1%;
-    padding: 0px 5px;
-    background: #fda566; }
+    padding: 0px 5px; }
 
 .desktop_menu {
   display: none; }
@@ -90,6 +89,50 @@ a {
     list-style: disc; }
     .content_area ul li {
       margin-bottom: 20px; }
+
+.buttons {
+  padding: 5px 12px;
+  background: rgba(253, 165, 102, 0.95);
+  margin-right: 5%;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  z-index: 1000;
+  /*
+  	a.back {
+  		border-right:1px solid #fff;
+  		padding-right:4px;
+  	}
+  */ }
+  .buttons a {
+    float: left;
+    display: block;
+    color: #fff;
+    font-family: "aaux-next";
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 400; }
+  .buttons a.e_tour_button {
+    /*
+    		border-right:1px solid #fff;
+    		padding-right:4px;
+    */ }
+  .buttons a.next {
+    border-left: 1px solid #fff;
+    padding-left: 8px;
+    margin-left: 8px; }
+  .buttons a:hover {
+    text-decoration: underline; }
+  .buttons .arrow-right {
+    width: 0;
+    height: 0;
+    border-top: 4px solid transparent;
+    border-bottom: 4px solid transparent;
+    display: inline-block;
+    border-left: 4px solid #fff;
+    position: relative;
+    top: -2px;
+    margin-left: 3px; }
 
 /* Mobile Page 1 */
 .flower {
@@ -472,14 +515,13 @@ input#gform_submit_button_1.gform_button.button {
       height: auto; }
 
   .femi_bar {
-    background: rgba(253, 165, 102, 0.95) none repeat scroll 0 0;
+    background: rgba(253, 165, 102, 0.9) none repeat scroll 0 0;
     bottom: 32%;
     position: absolute;
     width: 29%; }
     .femi_bar img.logo {
       width: 74%; }
     .femi_bar .e-tour {
-      background: #fda566;
       width: 55%;
       		/*margin:-4px auto 8px;
       		position:relative;
@@ -768,7 +810,7 @@ input#gform_submit_button_1.gform_button.button {
       		position:relative;
       		z-index:100;		
       */ } }
-@media screen and (min-width: 1450px) {
+@media screen and (min-width: 1600px) {
   .wrapper {
     margin: 0 auto;
-    max-width: 1450px; } }
+    max-width: 1600px; } }

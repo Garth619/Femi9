@@ -19,6 +19,45 @@
 <?php endif; ?>
 
 
+<?php if (!is_mobile()):?>
+
+	
+	
+	<div class="buttons">
+		
+		
+		
+			
+		
+		
+		<a href="<?php bloginfo('url');?>/next-steps#get_started" class="e_tour_button">Take Our E-Tour</a>
+		
+				
+		
+		
+		
+		<?php $post_object = get_field('next');
+
+			if( $post_object ): 
+
+	// override $post
+	$post = $post_object;
+	setup_postdata( $post ); ?>
+    <a class="next" href="<?php the_permalink(); ?>"><?php the_title(); ?><div class="arrow-right"></div></a></h3>
+    	
+    
+    <?php wp_reset_postdata(); // IMPORTANT - reset the $post object so the rest of the page works correctly ?>
+
+
+<?php endif; ?>
+		
+		
+		
+		
+		
+	</div><!-- buttons -->
+
+<?php endif; ?>
 
 
 

@@ -128,6 +128,8 @@ get_header(); ?>
 		
 		<div class="wavy"></div><!-- orange_curtains -->
 		
+		
+		
 	
 </div><!-- content_area -->
 

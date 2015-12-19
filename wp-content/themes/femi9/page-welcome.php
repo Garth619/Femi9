@@ -39,6 +39,8 @@ get_header(); ?>
 		<img class="um" src="<?php bloginfo('template_directory');?>/images/um.jpg"/>
 	</div><!-- mobile_models1_wrapper -->
 	
+
+	
 </div><!-- content_area -->
 
 

@@ -73,7 +73,8 @@ get_header(); ?>
 	</div><!-- white_content_box -->
 		
 		<div class="orange_curtains"></div><!-- orange_curtains -->
-		
+	
+	
 	
 </div><!-- content_area -->
 
