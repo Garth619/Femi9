@@ -41,8 +41,8 @@
 <script src="https://use.typekit.net/bud2inz.js"></script>
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
 <script src="<?php bloginfo('template_directory');?>/stick/jq-sticky-anything.min.js" type="text/javascript"></script>
-
-
+<script src="<?php bloginfo('template_directory');?>/scrollmagic/scrollmagic/minified/ScrollMagic.min.js" type="text/javascript"></script>
+<script src="<?php bloginfo('template_directory');?>/scrollmagic/scrollmagic/minified/plugins/debug.addIndicators.min.js"></script>
 <?php if (!is_mobile()):?>	
 
 
@@ -50,15 +50,35 @@
 	
 	jQuery(document).ready(function(){
 		
-		jQuery('.desktop_menu').stickThis({
+		jQuery('.active').css("background","red");
+		
+	jQuery('.desktop_menu').stickThis({
 			
 			zindex:     10000
 			
 		});
 		
+		// init controller
+	var controller = new ScrollMagic.Controller({
+		globalSceneOptions: {
+			
+			duration: 700
+			
+			}
+		
+		});
+
+	// build scenes
+	new ScrollMagic.Scene({triggerElement: "#get_started"})
+					.setClassToggle("#get_started", "active") // add class toggle
+					//.addIndicators() // add indicators (requires plugin)
+					.addTo(controller);
+		
 		
 	});
 	
+	
+// 	jQuery('.active').css("background","red");
 	
 </script>
 
@@ -86,6 +106,10 @@
 	
 	
 </script>
+
+<script>
+	
+	</script>
 
 
 <?php endif;?>

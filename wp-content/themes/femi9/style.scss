@@ -582,8 +582,27 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f7b9a2', e
 		
 	}
 	
+}
 
 
+.page_three_box_two {
+	background:#fff;
+	transition:all 1s ease;
+}
+
+
+.page_three_box_two.active {
+	background:$orangetranstwo;
+	transition:all 1s ease;
+	color:#fff;
+}
+
+.page_three_box_two.active h1 {
+	border-bottom:#fff 0.5px solid
+}
+
+.page_three_box_two.active .gform_wrapper ul li input {
+	border:none;
 }
 
 

@@ -408,6 +408,21 @@ a {
     position: relative;
     z-index: 100; }
 
+.page_three_box_two {
+  background: #fff;
+  transition: all 1s ease; }
+
+.page_three_box_two.active {
+  background: rgba(253, 165, 102, 0.95);
+  transition: all 1s ease;
+  color: #fff; }
+
+.page_three_box_two.active h1 {
+  border-bottom: #fff 0.5px solid; }
+
+.page_three_box_two.active .gform_wrapper ul li input {
+  border: none; }
+
 .mobile_models8_wrapper {
   margin: 35px auto;
   width: 100%;
