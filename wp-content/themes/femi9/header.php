@@ -50,7 +50,7 @@
 	
 	jQuery(document).ready(function(){
 		
-		jQuery('.active').css("background","red");
+		
 		
 	jQuery('.desktop_menu').stickThis({
 			
@@ -101,6 +101,23 @@
 			zindex:     10000
 			
 		});
+		
+		// init controller
+	var controller = new ScrollMagic.Controller({
+		globalSceneOptions: {
+			
+			duration: 700
+			
+			}
+		
+		});
+
+	// build scenes
+	new ScrollMagic.Scene({triggerElement: "#get_started"})
+					.setClassToggle("#get_started", "active") // add class toggle
+					//.addIndicators() // add indicators (requires plugin)
+					.addTo(controller);
+
 		
 		
 	});
