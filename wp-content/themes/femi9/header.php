@@ -35,7 +35,7 @@
 
 	?></title>
 <link rel="profile" href="http://gmpg.org/xfn/11" />
-<link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>?v=2" />
+<link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>?v=23" />
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
 <?php wp_head(); ?>
 <script src="https://use.typekit.net/bud2inz.js"></script>
@@ -73,6 +73,7 @@
 					.setClassToggle("#get_started", "active") // add class toggle
 					//.addIndicators() // add indicators (requires plugin)
 					.addTo(controller);
+		
 		
 		
 	});

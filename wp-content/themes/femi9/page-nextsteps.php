@@ -47,7 +47,7 @@ customer experience.</p>
 	</div><!-- white_content_box -->
 	
 	
-	<div class="mobile_models8_wrapper">
+	<div class="mobile_models8_wrapper image_fadein">
 		
 			
 			<img class="mobile_models8" src="<?php bloginfo('template_directory');?>/images/mobile-model8.jpg"/>
