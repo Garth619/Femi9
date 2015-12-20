@@ -61,6 +61,11 @@
 
 <?php endif; ?>
 
+<div class="pre_loader">
+	
+	<img src="<?php bloginfo('template_directory');?>/images/femi9.png"/>
+	
+</div>
 
 
 	<?php

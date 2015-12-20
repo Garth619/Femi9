@@ -58,6 +58,8 @@
 			
 		});
 		
+		jQuery(".pre_loader").fadeOut("slow");
+		
 		<?php if(is_page('14')):?>
 		
 		// init controller
@@ -110,6 +112,8 @@
 			
 		});
 		
+		jQuery(".pre_loader").fadeOut("slow");
+		
 		<?php if(is_page('14')):?>
 		
 		// init controller
@@ -142,9 +146,7 @@
 	
 </script>
 
-<script>
-	
-	</script>
+
 
 
 <?php endif;?>
