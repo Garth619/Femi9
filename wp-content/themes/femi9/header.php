@@ -192,7 +192,12 @@
 		<div class="femi_bar">
 			<img class="logo" src="<?php bloginfo('template_directory');?>/images/femi9.png"/>
 			<div class="e-tour">
+				
+			<?php if(is_page('14')):?>
+				<a href="#get_started"><img src="<?php bloginfo('template_directory');?>/images/etour.png"/></a>
+				<?php else:?>
 				<a href="<?php bloginfo('url');?>/next-steps#get_started"><img src="<?php bloginfo('template_directory');?>/images/etour.png"/></a>
+			<?php endif;?>
 		</div>
 	
 </div><!-- mobile_femi_bar -->
@@ -234,7 +239,13 @@
 		<div class="femi_bar">
 			<img class="logo" src="<?php bloginfo('template_directory');?>/images/femi9.png"/>
 			<div class="e-tour">
-				<a href="<?php bloginfo('url');?>/next-steps#get_started"><img src="<?php bloginfo('template_directory');?>/images/etour.png"/></a>
+				
+				<?php if(is_page('14')):?>
+					
+					<a href="#get_started"><img src="<?php bloginfo('template_directory');?>/images/etour.png"/></a>
+					<?php else:?>
+					<a href="<?php bloginfo('url');?>/next-steps#get_started"><img src="<?php bloginfo('template_directory');?>/images/etour.png"/></a>
+				<?php endif;?>
 		</div>
 	
 		</div><!-- mobile_femi_bar -->

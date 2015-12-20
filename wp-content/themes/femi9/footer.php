@@ -27,12 +27,14 @@
 		
 		
 		
+			<?php if(is_page('14')):?>
+		
+				<a href="#get_started" class="e_tour_button">Take Our E-Tour</a>
+				<?php else:?>
+				<a href="<?php bloginfo('url');?>/next-steps#get_started" class="e_tour_button">Take Our E-Tour</a>
+		
 			
-		
-		
-		<a href="<?php bloginfo('url');?>/next-steps#get_started" class="e_tour_button">Take Our E-Tour</a>
-		
-				
+			<?php endif;?>
 		
 		
 		
