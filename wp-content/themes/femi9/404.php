@@ -9,22 +9,14 @@
 
 get_header(); ?>
 
-	<div id="container">
-		<div id="content" role="main">
-
-			<div id="post-0" class="post error404 not-found">
-				<h1 class="entry-title"><?php _e( 'Not Found', 'twentyten' ); ?></h1>
-				<div class="entry-content">
-					<p><?php _e( 'Apologies, but the page you requested could not be found. Perhaps searching will help.', 'twentyten' ); ?></p>
-					<?php get_search_form(); ?>
-				</div><!-- .entry-content -->
-			</div><!-- #post-0 -->
-
-		</div><!-- #content -->
-	</div><!-- #container -->
-	<script type="text/javascript">
-		// focus on search field after it has loaded
-		document.getElementById('s') && document.getElementById('s').focus();
-	</script>
+<div class="content_area">
+<div class="white_content_box" style="margin-top:35px;">
+		
+		<h1>Not Found</h1>
+		
+		<p style="text-align: center;">The page you are looing for cannot be found</p> 
+		
+	</div><!-- white_content_box -->
+</div>
 
 <?php get_footer(); ?>
