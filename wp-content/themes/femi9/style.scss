@@ -604,17 +604,21 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f7b9a2', e
 
 .page_three_box_two {
 	background:#fff;
-	transition:all 0.5s ease 0.8s;
 	-webkit-transition: all 0.5s ease 0.8s;
 	-moz-transition: all 0.5s ease 0.8s;
+	transition:all 0.5s ease 0.8s;
+	
+	
 
 }
 
 .page_three_box_two .gform_wrapper ul li input {
 	border:1px solid $grey;
-		transition:all 0.5s ease 0.8s;
 	-webkit-transition: all 0.5s ease 0.8s;
 	-moz-transition: all 0.5s ease 0.8s;
+	transition:all 0.5s ease 0.8s;
+	
+	
 
 }
 
@@ -626,18 +630,18 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f7b9a2', e
 
 .page_three_box_two.active {
 	background:$orangetranstwo;
-		transition:all 0.5s ease 0.8s;
 	-webkit-transition: all 0.5s ease 0.8s;
 	-moz-transition: all 0.5s ease 0.8s;
+	transition:all 0.5s ease 0.8s;
 	color:#fff;
 
 }
 
 .page_three_box_two.active h1 {
 	border-bottom:#fff 1px solid;
-		transition:all 0.5s ease 0.8s;
 	-webkit-transition: all 0.5s ease 0.8s;
 	-moz-transition: all 0.5s ease 0.8s;
+	transition:all 0.5s ease 0.8s;
 	color:#fff;
 
 }
@@ -646,9 +650,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f7b9a2', e
 
 .page_three_box_two.active .gform_wrapper ul li input {
 	border:#fff .5px solid;
-	transition:all 0.5s ease 0.8s;
 	-webkit-transition: all 0.5s ease 0.8s;
 	-moz-transition: all 0.5s ease 0.8s;
+	transition:all 0.5s ease 0.8s;
+	
+	
 
 }
 
