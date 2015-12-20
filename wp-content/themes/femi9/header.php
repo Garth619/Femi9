@@ -58,6 +58,8 @@
 			
 		});
 		
+		<?php if(is_page('14')):?>
+		
 		// init controller
 	var controller = new ScrollMagic.Controller({
 		globalSceneOptions: {
@@ -73,7 +75,13 @@
 					.setClassToggle("#get_started", "active") // add class toggle
 					//.addIndicators() // add indicators (requires plugin)
 					.addTo(controller);
+					
+	new ScrollMagic.Scene({triggerElement: "#get_started"})
+					.setClassToggle(".buttons", "active") // add class toggle
+					//.addIndicators() // add indicators (requires plugin)
+					.addTo(controller);
 		
+		<?php endif;?>
 		
 		
 	});
@@ -102,6 +110,8 @@
 			
 		});
 		
+		<?php if(is_page('14')):?>
+		
 		// init controller
 	var controller = new ScrollMagic.Controller({
 		globalSceneOptions: {
@@ -113,10 +123,17 @@
 		});
 
 	// build scenes
-	new ScrollMagic.Scene({triggerElement: "#get_started"})
-					.setClassToggle("#get_started", "active") // add class toggle
+	new ScrollMagic.Scene({triggerElement: ".page_three_box_two"})
+					.setClassToggle(".page_three_box_two", "active") // add class toggle
 					//.addIndicators() // add indicators (requires plugin)
 					.addTo(controller);
+					
+	new ScrollMagic.Scene({triggerElement: ".page_three_box_two"})
+					.setClassToggle(".e-tour.cloned", "active") // add class toggle
+					//.addIndicators() // add indicators (requires plugin)
+					.addTo(controller);
+		
+		<?php endif;?>
 
 		
 		

@@ -88,7 +88,16 @@ a {
 	.e-tour.cloned {
 		padding:3px 5px !important;
 		background:$orange  !important;
+		transition:all 0.5s ease 1s;
+		opacity: 1;
+		visibility: visible;
 // 		width:42% !important;
+	}
+	
+	.e-tour.cloned.active {
+		transition:all 0.5s ease 1s;
+		opacity: 0;
+		visibility: hidden;
 	}
 
 }
@@ -153,9 +162,10 @@ a {
 	position: fixed;
 	bottom:0;
 	right:0;
-	
 	z-index:1000;
-	
+	transition:all 0.5s ease 1s;
+	opacity: 1;
+	visibility: visible;
 	a {
 		float:left;
 		display: block;
@@ -199,6 +209,14 @@ a.next {
 	top:-2px;
 	margin-left:3px;
 }
+}
+
+
+
+.buttons.active {
+	transition:all 0.5s ease 1s;
+	opacity: 0;
+	visibility: hidden;
 }
 
 /* Mobile Page 1 */
@@ -649,7 +667,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f7b9a2', e
 
 
 .page_three_box_two.active .gform_wrapper ul li input {
-	border:#fff .5px solid;
+	border:#fff 0.5px solid;
 	-webkit-transition: all 0.5s ease 0.8s;
 	-moz-transition: all 0.5s ease 0.8s;
 	transition:all 0.5s ease 0.8s;

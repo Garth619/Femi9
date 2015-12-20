@@ -66,7 +66,14 @@ a {
     padding: 0px 5px; }
   .femi_bar .e-tour.cloned {
     padding: 3px 5px !important;
-    background: #fda566 !important; }
+    background: #fda566 !important;
+    transition: all 0.5s ease 1s;
+    opacity: 1;
+    visibility: visible; }
+  .femi_bar .e-tour.cloned.active {
+    transition: all 0.5s ease 1s;
+    opacity: 0;
+    visibility: hidden; }
 
 .desktop_menu {
   display: none; }
@@ -113,6 +120,9 @@ a {
   bottom: 0;
   right: 0;
   z-index: 1000;
+  transition: all 0.5s ease 1s;
+  opacity: 1;
+  visibility: visible;
   /*
   	a.back {
   		border-right:1px solid #fff;
@@ -148,6 +158,11 @@ a {
     position: relative;
     top: -2px;
     margin-left: 3px; }
+
+.buttons.active {
+  transition: all 0.5s ease 1s;
+  opacity: 0;
+  visibility: hidden; }
 
 /* Mobile Page 1 */
 .flower {
@@ -449,7 +464,7 @@ a {
   color: #fff; }
 
 .page_three_box_two.active .gform_wrapper ul li input {
-  border: #fff .5px solid;
+  border: #fff 0.5px solid;
   -webkit-transition: all 0.5s ease 0.8s;
   -moz-transition: all 0.5s ease 0.8s;
   transition: all 0.5s ease 0.8s; }
