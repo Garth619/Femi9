@@ -144,7 +144,7 @@ a {
 
 .content_area {
 	line-height:1.4;
-	
+	overflow: hidden;
 	h1 {
 		text-transform: uppercase;
 		font-weight: 300;
@@ -1310,7 +1310,7 @@ float:left;
 
 
 
-@media screen and (min-width: 1100px) {
+@media screen and (min-width: 1250px) {
 
 
 .large_monitor_wrap {
@@ -1338,6 +1338,29 @@ float:left;
 
 .pink_curtains {
 	margin: 0;
+}
+
+.mission_statement {
+  width: 80%;
+}
+
+.mobile_models4_wrapper {
+  padding: 8%;
+  margin-top:-45px;
+}
+
+.mobile_models5_wrapper {
+ 	padding: 3%;
+}
+
+.mobile_models6_wrapper {
+  
+  padding: 13%;
+   
+}
+
+.rose3 {
+	display: none;
 }
 
 
