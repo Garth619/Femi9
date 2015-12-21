@@ -58,7 +58,7 @@
 			
 		});
 		
-		//jQuery(".pre_loader").delay(2000).fadeOut("slow");
+		jQuery(".pre_loader").delay(2000).fadeOut("slow");
 		
 		<?php if(is_page('14')):?>
 		
@@ -112,7 +112,7 @@
 			
 		});
 		
-		//jQuery(".pre_loader").delay(2000).fadeOut("slow");
+		jQuery(".pre_loader").delay(2000).fadeOut("slow");
 		
 		<?php if(is_page('14')):?>
 		

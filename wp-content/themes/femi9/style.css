@@ -52,8 +52,7 @@ a {
   height: 100%;
   position: fixed;
   top: 0;
-  z-index: 1000000;
-  display: none; }
+  z-index: 1000000; }
   .pre_loader img {
     width: 50%;
     display: block;
