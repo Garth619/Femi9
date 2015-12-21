@@ -29,7 +29,7 @@ get_header(); ?>
 		
 			<h1>femi9: A Celebration of&nbsp;Femininity</h1>
 		
-				<p>Welcome to femi9!  Born of an Arabian heritage and a growing fashion legacy, femi9 embodies a celebration of femininity, elegance and affordability.  With collections created and brought to life season after season by a culturally diverse design team, the femi9 style appeals to women from all walks of life.  Our collections draw out the femininity of all women, remaining true to our heritage and meeting our customers’ needs and expectations as part of our Customer-Centric environment and brand.  In our vision to share our elegant, affordable and sought-after collections with the rest of world, we are seeking strategic partners with similar values to ours and to jointly expand our thriving business internationally.</p>
+				<p>Welcome to femi9! Born of an Arabian heritage and a growing fashion legacy, femi9 embodies a celebration of femininity, elegance and affordability. With collections created and brought to life season after season by a culturally diverse design team, the femi9 style appeals to women from all walks of life. Our collections draw out the femininity of all women, remaining true to our heritage and meeting our customers’ needs and expectations as part of our Customer-Centric environment and brand. In our vision to share our elegant, affordable and sought-after collections with the rest of world, we are seeking strategic partners with similar values to ours and to jointly expand our thriving business internationally.</p>
 
 				<p>Here you will learn more about femi9, our goals, what we value and what it takes to qualify to become our franchisee and strategic partner in growing our brand across new markets.</p> 
 		
