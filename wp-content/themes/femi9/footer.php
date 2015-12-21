@@ -45,7 +45,7 @@
 	// override $post
 	$post = $post_object;
 	setup_postdata( $post ); ?>
-    <a class="next" href="<?php the_permalink(); ?>"><?php the_title(); ?><div class="arrow-right"></div></a></h3>
+    <a class="next" href="<?php the_permalink(); ?>"><?php the_title(); ?><div class="arrow-right"></div></a>
     	
     
     <?php wp_reset_postdata(); // IMPORTANT - reset the $post object so the rest of the page works correctly ?>

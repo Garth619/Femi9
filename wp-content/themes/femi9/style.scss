@@ -65,7 +65,7 @@ a {
 	position: fixed;
 	top:0;
 	z-index:1000000;
-	
+	display: none;
 	img {
 		width:50%;
 		display:block;
@@ -1308,6 +1308,40 @@ float:left;
 	
 }
 
+
+
+@media screen and (min-width: 1100px) {
+
+
+.large_monitor_wrap {
+	clear: both;
+	.large_monitor_content_inner {
+		width:50%;
+	}
+	.large_monitor_images_inner {
+		width:50%;
+		
+	}
+	.large_monitor_content_inner.left, .large_monitor_images_inner.left {
+		float:left;
+	}
+	.large_monitor_content_inner.right, .large_monitor_images_inner.right {
+		float:right;
+	}
+	
+}
+
+.mobile_models1_wrapper {
+ 	margin: -599px 0 35px;
+  padding: 13%;
+ }
+
+.pink_curtains {
+	margin: 0;
+}
+
+
+}
 
 
 @media screen and (min-width: 1600px) {
