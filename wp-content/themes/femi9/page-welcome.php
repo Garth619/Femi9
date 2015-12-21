@@ -22,7 +22,7 @@ get_header(); ?>
 	
 	<div class="large_monitor_wrap">
 		
-		<div class="large_monitor_content_inner left">
+		<div class="large_monitor_content_inner left wow fadeIn">
 	
 			<div class="flower"></div><!-- rose -->
 			<div class="white_content_box page_one_box_one">
@@ -37,7 +37,7 @@ get_header(); ?>
 	
 		</div><!-- large_monitor_content_inner -->
 		
-		<div class="large_monitor_images_inner right">
+		<div class="large_monitor_images_inner right wow fadeIn">
 	
 			<div class="pink_curtains"></div><!-- pink_curtains -->
 	

@@ -35,7 +35,9 @@
 
 	?></title>
 <link rel="profile" href="http://gmpg.org/xfn/11" />
-<link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>?v=4" />
+<link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>?v=8" />
+<link rel="stylesheet" href="<?php bloginfo('template_directory');?>/wow/css/libs/animate.css">
+
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
 <?php wp_head(); ?>
 <script src="https://use.typekit.net/bud2inz.js"></script>
@@ -43,6 +45,10 @@
 <script src="<?php bloginfo('template_directory');?>/stick/jq-sticky-anything.min.js" type="text/javascript"></script>
 <script src="<?php bloginfo('template_directory');?>/scrollmagic/scrollmagic/minified/ScrollMagic.min.js" type="text/javascript"></script>
 <script src="<?php bloginfo('template_directory');?>/scrollmagic/scrollmagic/minified/plugins/debug.addIndicators.min.js"></script>
+<script src="<?php bloginfo('template_directory');?>/wow/dist/wow.min.js"></script>
+<script>
+   new WOW().init();
+</script>
 <?php if (!is_handheld()):?>	
 
 
@@ -136,6 +142,10 @@
 					.setClassToggle(".e-tour.cloned", "active") // add class toggle
 					//.addIndicators() // add indicators (requires plugin)
 					.addTo(controller);
+	
+	
+	
+	
 		
 		<?php endif;?>
 

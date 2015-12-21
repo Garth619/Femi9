@@ -22,7 +22,7 @@ get_header(); ?>
 	
 	<div class="large_monitor_wrap">
 		
-		<div class="large_monitor_content_inner left">
+		<div class="large_monitor_content_inner left wow fadeIn">
 	
 				<div class="lace"></div><!-- rose -->
 				<div class="white_content_box page_three_box_one">
@@ -38,7 +38,7 @@ get_header(); ?>
 		</div><!-- large_monitor_wrap_inner -->
 
 	
-		<div class="large_monitor_images_inner right">
+		<div class="large_monitor_images_inner right wow fadeIn">
 	
 			<div class="mobile_models3_wrapper">
 				<img class="mobile_models3" src="<?php bloginfo('template_directory');?>/images/mobile-model3.jpg"/>
@@ -74,7 +74,7 @@ get_header(); ?>
 	
 	</div><!-- large_monitor_wrap_inner -->
 	
-	<div class="large_monitor_image_inner left">
+	<div class="large_monitor_image_inner left wow fadeIn">
 	
 	
 	<div class="mobile_models4_wrapper">
@@ -91,7 +91,7 @@ get_header(); ?>
 		
 	<div class="large_monitor_wrap">
 		
-		<div class="large_monitor_content_inner left">
+		<div class="large_monitor_content_inner left wow fadeIn">
 		
 			<div class="white_content_box page_three_box_three">
 		
@@ -113,7 +113,7 @@ get_header(); ?>
 	
 		</div><!-- large_monitor_content_inner -->
 	
-		<div class="large_monitor_images_inner right">
+		<div class="large_monitor_images_inner right wow fadeIn">
 	
 			<div class="mobile_models5_wrapper">
 				<img class="mobile_models5" src="<?php bloginfo('template_directory');?>/images/mobile-models5.jpg"/>
@@ -127,7 +127,7 @@ get_header(); ?>
 	
 	<div class="large_monitor_wrap">
 		
-		<div class="large_monitor_content_inner right">
+		<div class="large_monitor_content_inner right wow fadeIn">
 	
 			<div class="white_content_box page_three_box_four">
 				<h1>How do you&nbsp;benefit?</h1>
@@ -141,7 +141,7 @@ get_header(); ?>
  	
 		</div><!-- large_monitor_content_inner -->
 	
-		<div class="large_monitor_images_inner left">
+		<div class="large_monitor_images_inner left wow fadeIn">
 	
 		<div class="mobile_models6_wrapper">
 			<img class="cracks" src="<?php bloginfo('template_directory');?>/images/cracks.jpg"/>

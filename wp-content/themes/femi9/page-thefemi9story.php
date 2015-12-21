@@ -21,7 +21,7 @@ get_header(); ?>
 	
 	<div class="large_monitor_wrap">
 		
-		<div class="large_monitor_content_inner left">
+		<div class="large_monitor_content_inner left wow fadeIn">
 	
 			<div class="rose"></div><!-- rose -->
 			<div class="white_content_box page_two_box_one">
@@ -42,7 +42,7 @@ get_header(); ?>
 	
 		</div><!-- large_monitor_content_inner -->
 		
-		<div class="large_monitor_images_inner right">
+		<div class="large_monitor_images_inner right wow fadeIn">
 	
 	
 			<div class="mission_statement">
@@ -58,7 +58,7 @@ get_header(); ?>
 	
 	<div class="large_monitor_wrap">
 		
-		<div class="large_monitor_images_inner left">
+		<div class="large_monitor_images_inner left wow fadeIn">
 	
 			<div class="mobile_models2_wrapper">
 				<div class="orange_models2"></div><!-- orange_models2 -->
@@ -68,7 +68,7 @@ get_header(); ?>
 		
 		</div><!-- large_monitor_images_inner -->
 	
-	<div class="large_monitor_content_inner right">
+	<div class="large_monitor_content_inner right wow fadeIn">
 		
 		<div class="white_content_box page_two_box_two">
 		

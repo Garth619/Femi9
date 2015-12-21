@@ -19,7 +19,7 @@ get_header(); ?>
 	
 	<div class="large_monitor_wrap">
 		
-		<div class="large_monitor_content_inner left">
+		<div class="large_monitor_content_inner left wow fadeIn">
 	
 			<div class="sand"></div>
 			<div class="white_content_box page_three_box_one">
@@ -32,7 +32,7 @@ customer experience.</p>
 	
 		</div><!-- large_monitor_content_inner -->
 		
-		<div class="large_monitor_images_inner right">
+		<div class="large_monitor_images_inner right wow fadeIn">
 		
 			<div class="mobile_models7_wrapper">
 				<img class="palm_trees" src="<?php bloginfo('template_directory');?>/images/palm-trees.jpg"/>
@@ -58,7 +58,7 @@ customer experience.</p>
 		
 		</div><!-- large_monitor_content_inner -->
 		
-		<div class="large_monitor_images_inner left">
+		<div class="large_monitor_images_inner left wow fadeIn">
 	
 	
 			<div class="mobile_models8_wrapper image_fadein">
