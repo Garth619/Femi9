@@ -55,6 +55,7 @@ a {
   z-index: 1000000; }
   .pre_loader img {
     width: 50%;
+    max-width: 350px;
     display: block;
     margin: 0 auto;
     position: relative;
