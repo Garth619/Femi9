@@ -549,7 +549,7 @@ input#gform_submit_button_1.gform_button.button {
   position: fixed;
   bottom: 0;
   width: 100%;
-  z-index: 1000; }
+  z-index: 100000; }
   .fixed_footer ul {
     list-style: none;
     margin: 0;
