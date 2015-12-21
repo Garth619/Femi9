@@ -10,7 +10,7 @@
 </div><!-- wrapper -->
 
 
-<?php if (is_mobile()):?>
+<?php if (is_handheld()):?>
    
 <div class="fixed_footer">
 	<?php wp_nav_menu( array( 'container_class' => 'menu-header', 'theme_location' => 'primary' ) ); ?>
@@ -19,7 +19,7 @@
 <?php endif; ?>
 
 
-<?php if (!is_mobile()):?>
+<?php if (!is_handheld()):?>
 
 	
 	

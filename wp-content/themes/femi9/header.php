@@ -43,7 +43,7 @@
 <script src="<?php bloginfo('template_directory');?>/stick/jq-sticky-anything.min.js" type="text/javascript"></script>
 <script src="<?php bloginfo('template_directory');?>/scrollmagic/scrollmagic/minified/ScrollMagic.min.js" type="text/javascript"></script>
 <script src="<?php bloginfo('template_directory');?>/scrollmagic/scrollmagic/minified/plugins/debug.addIndicators.min.js"></script>
-<?php if (!is_mobile()):?>	
+<?php if (!is_handheld()):?>	
 
 
 <script type="text/javascript">
@@ -99,7 +99,7 @@
 
 
 
-<?php if (is_mobile()):?>	
+<?php if (is_handheld()):?>	
 
 
 <script type="text/javascript">
@@ -167,7 +167,7 @@
 	
 	<div class="wrapper">
 		
-<?php if (is_mobile()):?>	
+<?php if (is_handheld()):?>	
 	
 		<div class="banner">
 	
@@ -214,7 +214,7 @@
 			
 			
 			
-	<?php if (!is_mobile()):?>	
+	<?php if (!is_handheld()):?>	
 	
 		<div class="banner">
 	
