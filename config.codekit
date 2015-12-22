@@ -14608,6 +14608,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/wp-content\/themes\/femi9\/images\/loading.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 69061,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/loading.png",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/loading.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/wp-content\/themes\/femi9\/images\/mobile-banner1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -18326,6 +18337,50 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/uploads\/2015\/12\/Untitled-1-150x150.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12346,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2015\/12\/Untitled-1-150x150.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2015\/12\/Untitled-1-150x150.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2015\/12\/Untitled-1-300x300.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41690,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2015\/12\/Untitled-1-300x300.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2015\/12\/Untitled-1-300x300.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2015\/12\/Untitled-1-512x198.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39682,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2015\/12\/Untitled-1-512x198.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2015\/12\/Untitled-1-512x198.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2015\/12\/Untitled-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 324210,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2015\/12\/Untitled-1.jpg",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2015\/12\/Untitled-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/wp-content\/uploads\/wp-migrate-db\/index.php": {
 		"fileType": 8192,
