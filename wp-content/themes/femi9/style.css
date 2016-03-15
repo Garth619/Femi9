@@ -47,7 +47,7 @@ a {
 }
 */
 .pre_loader {
-  background: #fda566;
+  background: #fc4c02;
   width: 100%;
   height: 100%;
   position: fixed;
@@ -67,7 +67,7 @@ a {
   overflow: hidden; }
 
 .femi_bar {
-  background: #fda566;
+  background: #fc4c02;
   width: 100%;
   padding: 2% 0; }
   .femi_bar img {
@@ -82,7 +82,7 @@ a {
     padding: 0px 5px; }
   .femi_bar .e-tour.cloned {
     padding: 3px 5px !important;
-    background: #fda566 !important;
+    background: #fc4c02 !important;
     transition: all 0.5s ease 1s;
     opacity: 1;
     visibility: visible; }
@@ -131,7 +131,7 @@ a {
 
 .buttons {
   padding: 5px 12px;
-  background: rgba(253, 165, 102, 0.95);
+  background: rgba(252, 76, 2, 0.95);
   margin-right: 5%;
   position: fixed;
   bottom: 0;
@@ -203,7 +203,7 @@ a {
   width: 100%;
   margin: -280px 0px 35px 0; }
   .mobile_models1_wrapper .orange_models1 {
-    background: rgba(253, 165, 102, 0.5);
+    background: rgba(252, 76, 2, 0.5);
     width: 50px;
     height: 80px;
     float: left;
@@ -267,7 +267,7 @@ a {
   width: 100%;
   overflow: hidden; }
   .mobile_models2_wrapper .orange_models2 {
-    background: rgba(253, 165, 102, 0.5);
+    background: rgba(252, 76, 2, 0.5);
     width: 50px;
     height: 80px;
     float: left;
@@ -311,7 +311,7 @@ a {
   overflow: hidden;
   max-width: 1083px; }
   .mobile_models3_wrapper .orange_models3 {
-    background: rgba(253, 165, 102, 0.5);
+    background: rgba(252, 76, 2, 0.5);
     width: 50px;
     height: 80px;
     float: left;
@@ -446,7 +446,7 @@ a {
     position: relative;
     z-index: 75; }
   .mobile_models7_wrapper .orange2 {
-    background: rgba(253, 165, 102, 0.5);
+    background: rgba(252, 76, 2, 0.5);
     width: 50px;
     height: 80px;
     float: right;
@@ -467,7 +467,7 @@ a {
   transition: all 0.5s ease 0.8s; }
 
 .page_three_box_two.active {
-  background: rgba(253, 165, 102, 0.95);
+  background: rgba(252, 76, 2, 0.95);
   -webkit-transition: all 0.5s ease 0.8s;
   -moz-transition: all 0.5s ease 0.8s;
   transition: all 0.5s ease 0.8s;
@@ -527,7 +527,7 @@ a {
   text-align: center; }
 
 input#gform_submit_button_1.gform_button.button {
-  background: #fda566;
+  background: #fc4c02;
   border: none;
   color: #fff;
   padding: 5px;
@@ -574,17 +574,17 @@ input#gform_submit_button_1.gform_button.button {
         vertical-align: middle;
         padding: 0 5px; }
       .fixed_footer ul li a:hover {
-        color: #fda566; }
+        color: #fc4c02; }
     .fixed_footer ul li:last-child {
       border-right: none; }
     .fixed_footer ul li.current_page_item a {
-      color: #fda566; }
+      color: #fc4c02; }
 
 @media screen and (min-width: 590px) {
   .fixed_footer ul li {
     font-size: 15px; }
   .fixed_footer ul li.current_page_item a {
-    color: #fda566; } }
+    color: #fc4c02; } }
 @media screen and (min-width: 820px) {
   .banner {
     position: relative; }
@@ -593,7 +593,7 @@ input#gform_submit_button_1.gform_button.button {
       height: auto; }
 
   .femi_bar {
-    background: rgba(253, 165, 102, 0.9) none repeat scroll 0 0;
+    background: rgba(252, 76, 2, 0.9) none repeat scroll 0 0;
     bottom: 32%;
     position: absolute;
     width: 29%; }
@@ -631,11 +631,11 @@ input#gform_submit_button_1.gform_button.button {
           display: block;
           padding-left: 30%; }
         .desktop_menu ul li a:hover {
-          color: #fda566; }
+          color: #fc4c02; }
         .desktop_menu ul li a:hover:after {
           content: "";
           display: inline-block;
-          background: #fda566;
+          background: #fc4c02;
           width: 6px;
           height: 6px;
           position: relative;
@@ -647,7 +647,7 @@ input#gform_submit_button_1.gform_button.button {
       .desktop_menu ul li.current_page_item a:after {
         content: "";
         display: inline-block;
-        background: #fda566;
+        background: #fc4c02;
         width: 6px;
         height: 6px;
         position: relative;
