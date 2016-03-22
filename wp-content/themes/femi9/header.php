@@ -258,7 +258,7 @@
 
 		
 		<div class="femi_bar">
-			<img class="logo" src="<?php bloginfo('template_directory');?>/images/femi9.png"/>
+			<img class="logo" src="<?php bloginfo('template_directory');?>/images/newlogo.png"/>
 			<div class="e-tour">
 				
 				<?php if(is_page('14')):?>

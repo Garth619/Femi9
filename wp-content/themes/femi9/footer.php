@@ -63,7 +63,7 @@
 
 <div class="pre_loader">
 	
-	<img src="<?php bloginfo('template_directory');?>/images/loading.png"/>
+	<img src="<?php bloginfo('template_directory');?>/images/loading2.png"/>
 	
 </div>
 
