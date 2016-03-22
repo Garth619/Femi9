@@ -35,7 +35,7 @@
 
 	?></title>
 <link rel="profile" href="http://gmpg.org/xfn/11" />
-<link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>?v=7" />
+<link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>?v=10" />
 <link rel="stylesheet" href="<?php bloginfo('template_directory');?>/wow/css/libs/animate.css">
 
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
