@@ -83,7 +83,7 @@ a {
 }
 
 .femi_bar {
-	background:$orange;
+	background:#fff;
 	width:100%;
 	padding:2% 0;
 	img {
@@ -97,14 +97,14 @@ a {
 		width:38%;
 		margin:6px auto 8px;
 		position:relative;
-		left:1%;
+// 		left:1%;
 		padding:0px 5px;
 
 	}
 
 	.e-tour.cloned {
 		padding:3px 5px !important;
-		background:$orange  !important;
+		background:#fff  !important;
 		transition:all 0.5s ease 1s;
 		opacity: 1;
 		visibility: visible;
@@ -879,7 +879,7 @@ input#gform_submit_button_1.gform_button.button {
 	}
 	
 .femi_bar {
-	background: rgba(252, 76, 2, 0.9) none repeat scroll 0 0;
+	background:rgba(255, 255, 255, 0.98);
     bottom: 32%;
     position: absolute;
     width: 29%;
@@ -892,7 +892,7 @@ input#gform_submit_button_1.gform_button.button {
 	}
 	.e-tour {
 // 		background:$orange;
-		width:55%;
+		width:54%;
 		
 		/*margin:-4px auto 8px;
 		position:relative;

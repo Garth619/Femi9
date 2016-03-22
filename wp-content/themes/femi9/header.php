@@ -35,7 +35,7 @@
 
 	?></title>
 <link rel="profile" href="http://gmpg.org/xfn/11" />
-<link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>?v=10" />
+<link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>?v=12" />
 <link rel="stylesheet" href="<?php bloginfo('template_directory');?>/wow/css/libs/animate.css">
 
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
@@ -211,13 +211,13 @@
 
 		
 		<div class="femi_bar">
-			<img class="logo" src="<?php bloginfo('template_directory');?>/images/femi9.png"/>
+			<img class="logo" src="<?php bloginfo('template_directory');?>/images/newlogo3.png"/>
 			<div class="e-tour">
 				
 			<?php if(is_page('14')):?>
-				<a href="#get_started"><img src="<?php bloginfo('template_directory');?>/images/etour.png"/></a>
+				<a href="#get_started"><img src="<?php bloginfo('template_directory');?>/images/tt-orange.png"/></a>
 				<?php else:?>
-				<a href="<?php bloginfo('url');?>/next-steps#get_started"><img src="<?php bloginfo('template_directory');?>/images/etour.png"/></a>
+				<a href="<?php bloginfo('url');?>/next-steps#get_started"><img src="<?php bloginfo('template_directory');?>/images/tt-orange.png"/></a>
 			<?php endif;?>
 		</div>
 	
@@ -258,14 +258,14 @@
 
 		
 		<div class="femi_bar">
-			<img class="logo" src="<?php bloginfo('template_directory');?>/images/newlogo.png"/>
+			<img class="logo" src="<?php bloginfo('template_directory');?>/images/newlogo3.png"/>
 			<div class="e-tour">
 				
 				<?php if(is_page('14')):?>
 					
-					<a href="#get_started"><img src="<?php bloginfo('template_directory');?>/images/etour.png"/></a>
+					<a href="#get_started"><img src="<?php bloginfo('template_directory');?>/images/tt-orange.png"/></a>
 					<?php else:?>
-					<a href="<?php bloginfo('url');?>/next-steps#get_started"><img src="<?php bloginfo('template_directory');?>/images/etour.png"/></a>
+					<a href="<?php bloginfo('url');?>/next-steps#get_started"><img src="<?php bloginfo('template_directory');?>/images/tt-orange.png"/></a>
 				<?php endif;?>
 		</div>
 	

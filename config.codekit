@@ -15086,9 +15086,20 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 69954,
+		"initialSize": 70050,
 		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/loading.png",
 		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/loading.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/themes\/femi9\/images\/loading2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 70300,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/loading2.png",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/loading2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -15236,6 +15247,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/wp-content\/themes\/femi9\/images\/newlogo2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 64760,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/newlogo2.png",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/newlogo2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/themes\/femi9\/images\/newlogo3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 64832,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/newlogo3.png",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/newlogo3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/wp-content\/themes\/femi9\/images\/orange-curtain.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -15320,6 +15353,17 @@
 		"initialSize": 25731,
 		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/sand.jpg",
 		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/sand.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/themes\/femi9\/images\/tt-orange.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8490,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/tt-orange.png",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/femi9\/images\/tt-orange.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
